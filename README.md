@@ -26,7 +26,7 @@ For Work, I specialize in backend cloud systems, and the JVM (Java, Kotlin, Cloj
 
 For Fun, I collect. 
 
-I have a collection of Lists. So basically, **I Collect Data**. Really. That's what [Moocho Me](https://github.com/moocho-me) and [Datagator](https://github.com/datagator) are all about.
+I have a collection of Lists. So basically, **I Collect Data**. Really. That's what [Moocho Me](https://github.com/cschuyle/moocho-me) and [Datagator](https://github.com/cschuyle/datagator) are all about.
 
 I like Languages (the human kind as well as the computer kind). I collect translations of a few books, foremost among them [Le Petit Prince](https://lepetitprince.international).
 
