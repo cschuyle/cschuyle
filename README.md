@@ -24,9 +24,11 @@ I have a collection of Lists (of lists ...) So basically, **I Collect Data**. Re
 
 I like Languages (the human kind as well as the computer kind). I collect translations of a few books, foremost among them [Le Petit Prince](https://lepetitprince.international).
 
-I also have a very unwieldy collection of glassware. This consists mostly beer glasses from my travels.
+I have a very unwieldy collection of glassware, consisting of **beer glasses** from the dawn of my travels.
 
-### PS
+Also unwieldy is my collection of **books** (the kind made out of paper).
+
+### P.S.
 
 If you're interested in my tech history, starting today and working backwards ... Here it is, more or less:
 ```
@@ -37,18 +39,24 @@ Go
 Typescript
 React
 Python
+YAML
 Elm
+JSON
 Clojure
 Scala
 Ruby
 Javascript
+CSS
 C++
 Perl
 VB
 C
+HTML
+Tcl
 SQL
 LISP
 Prolog
+bash
 6502 ASM
 Applesoft BASIC
 ```
