@@ -12,7 +12,7 @@ I've authored and taught a course on [REST APIs in Springboot](https://spring.ac
 
 I'm adept at various dialects of SQL, as well as noSQL DBs like Dynamo and Redis. 
 
-I work with streaming data, like Kafka, and appreciate using queues to introduce stability into a system. I love Rich Hickey's quote: *If you aren't using queues, use them. And if you are, use them more!* He's referring not to external queue products liek Rabbit or Kafka, but rather Clojure's built-in queue mechanism. And, I could moention Go's channels in the same breath. And Reactive programming provides similar results in terms of using backpressure as a system regulator. 
+I work with streaming data, like Kafka, and appreciate using queues to introduce stability into a system. I love Rich Hickey's quote: *If you aren't using queues, use them. And if you are, use them more!* He's referring not to external queue products like Rabbit or Kafka, but rather Clojure's built-in queue mechanism (in core.async). I could mention Go's channels in the same breath. And Reactive programming (like Java's Project Reactor and WebFlux) provides similar results in terms of using backpressure as a system regulator.
 
 Finally, my **outlook on how to design data models** is inspired by DDD; the Law of Demeter; and in general the principle of loose coupling and interface independence and segregation (one of the SOLID principles). I sincerely believe that **simplicity and decoupling** are two of the most important ingredients in quality software. And if your AI doesn't know that, maybe you should be in charge of writing code - NOT AI.
 
