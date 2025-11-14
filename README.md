@@ -1,6 +1,6 @@
 ## Hi, I'm Carlton
 
-I'm a software engineer. I've been doing that since I was 12.
+I'm a software engineer. I started programming when I was 12 and haven't given up yet.
 
 ### For Work, I specialize in backend cloud systems, and the JVM (Java, Kotlin, Clojure). 
 
