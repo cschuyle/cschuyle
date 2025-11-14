@@ -24,7 +24,7 @@ I have a collection of Lists (of lists ...) So basically, **I Collect Data**. Re
 
 I like Languages (the human kind as well as the computer kind). I collect translations of a few books, foremost among them [Le Petit Prince](https://lepetitprince.international).
 
-I have a very unwieldy collection of glassware, consisting of **beer glasses** from the dawn of my travels.
+I have a very unwieldy collection of glassware, consisting of **beer glasses** from the dawn of my [travels](./TRAVELS.md).
 
 Also unwieldy is my collection of **books** (the kind made out of paper).
 
