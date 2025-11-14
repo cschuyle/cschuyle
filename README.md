@@ -4,7 +4,7 @@ I'm a software engineer. I've been doing that since I was 12.
 
 ### For Work, I specialize in backend cloud systems, and the JVM (Java, Kotlin, Clojure). 
 
-I'm a systems-level person, meaning I use the command line, do a lot of automation using bash and python, and am adept at all things Cloud, Automation, Infrastructure as Code.
+I'm a systems-view person, meaning I view the System as a collection of parts, and I like to know all the parts: application architecture, deployment infrastructure, network, performance, telemetry, etc. I generally prefer the command line to IDEs in cases where the IDE buys me little. I do a lot of automation using bash, Python, and Perl. I'm adept at all things Cloud, Automation, and Infrastructure as Code.
 
 **I'm an API and Data Jockey**. 
 
