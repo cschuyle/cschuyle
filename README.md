@@ -30,35 +30,48 @@ Also unwieldy is my collection of **books** (the kind made out of paper).
 
 ### P.S.
 
-If you're interested in my tech history, starting today and working backwards ... Here it is, more or less:
+Here's my tech stack journey, starting today and working backwards ... more or less:
 ```
 Java
 Spring
-Kotlin
+R
 Go
+Swift
+Objective C
 Typescript
 React
 Python
-YAML
 Elm
-JSON
+YAML
+Kotlin
 Clojure
 Scala
 Ruby
+C#
+XML
+JSON
 Javascript
 CSS
-C++
+Java pre-beta
+Ilog Rules
+CLIPS
+FORTRAN
+Regex's
 Perl
 VB
-C
+C++
 HTML
-Tcl
+Tcl, Tk
 SQL
 LISP
 Prolog
 bash
+csh
+C
+Pascal
 6502 ASM
 Applesoft BASIC
+Microsoft BASIC
 ```
 
 
