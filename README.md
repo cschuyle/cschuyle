@@ -32,9 +32,11 @@ Also unwieldy is my collection of **books** (the kind made out of paper).
 
 Here's my tech stack journey, working from the future backwards ... more or less:
 ```
+OCaml
 Lua
 Julia
 Rust
+Zig
 <NOW>
 Java
 Spring
@@ -58,6 +60,7 @@ Javascript
 CSS
 Java pre-beta
 Ilog Rules
+OPS5
 CLIPS
 FORTRAN
 Regex's
