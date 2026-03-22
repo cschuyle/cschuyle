@@ -30,8 +30,12 @@ Also unwieldy is my collection of **books** (the kind made out of paper).
 
 ### P.S.
 
-Here's my tech stack journey, starting today and working backwards ... more or less:
+Here's my tech stack journey, working from the future backwards ... more or less:
 ```
+Lua
+Julia
+Rust
+<NOW>
 Java
 Spring
 R
@@ -44,12 +48,12 @@ Python
 Elm
 YAML
 Kotlin
+JSON
 Clojure
 Scala
 Ruby
 C#
 XML
-JSON
 Javascript
 CSS
 Java pre-beta
